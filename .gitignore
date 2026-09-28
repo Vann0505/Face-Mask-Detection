@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.pyc
+
+runs/
+outputs/
+
+dataset/
+*.pt
+
+.env
+.streamlit/secrets.toml
+
+test.png
